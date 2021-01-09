@@ -1,0 +1,19 @@
+Vishnu Vundamati
+Level 4 - Python
+CS-4
+A3.1 Exploring Arithmetic Operators
+
+Web Link to Program: http://pythontutor.com/visualize.html#code=%23Taking%20number%20one%20from%20user%0Aint_user%20%3D%20input%28%22a%20%3D%20%22%29%0Aa%20%3D%20int%28int_user%29%0A%0A%23Taking%20number%20two%20from%20user%0Aint_user%20%3D%20input%28%22b%20%3D%20%22%29%0Ab%20%3D%20int%28int_user%29%0A%0A%0A%23Addition%20Function%0Aadd%20%3D%20a%20%2B%20b%0Aadd%20%3D%20str%28add%29%0Aprint%28%22a%20%2B%20b%20%3D%20%22%20%2B%20add%29%0A%0A%23Subtraction%20Function%0Asubtract%20%3D%20a%20-%20b%0Asubtract%20%3D%20str%28subtract%29%0Aprint%28%22a%20-%20b%20%3D%20%22%20%2B%20subtract%29%0A%0A%23Multiplication%20Functoin%0Amultiply%20%3D%20a%20*%20b%0Amultiply%20%3D%20str%28multiply%29%0Aprint%28%22a%20*%20b%20%3D%20%22%20%2B%20multiply%29%0A%0A%23Division%20Function%0Adivide%20%3D%20a%20/%20b%0Adivide%20%3D%20str%28divide%29%0Aprint%28%22a%20/%20b%20%3D%20%22%20%2B%20divide%29%0A%0A%23Modulus%20Function%0Amodulus%20%3D%20a%20%25%20b%0Amodulus%20%3D%20str%28modulus%29%0Aprint%28%22a%20%25%20b%20%3D%20%22%20%2B%20modulus%29%0A%0A%23Exponent%20Function%0Aexponent%20%3D%20a%20**%20b%0Aexponent%20%3D%20str%28exponent%29%0Aprint%28%22a%20**%20b%20%3D%20%22%20%2B%20exponent%29%0A%0A%23Floor%20Division%20Function%0AfloorDiv%20%3D%20a%20//%20b%0AfloorDiv%20%3D%20str%28floorDiv%29%0Aprint%28%22a%20//%20b%20%3D%20%22%20%2B%20floorDiv%29%0A&cumulative=false&heapPrimitives=nevernest&mode=edit&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false 
+
+Output:
+a = 100
+b = 10
+a + b = 110
+a - b = 90
+a * b = 1000
+a / b = 10.0
+a % b = 0
+a ** b = 100000000000000000000
+a // b = 10
+
+
